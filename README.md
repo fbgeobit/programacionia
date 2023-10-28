@@ -1,5 +1,5 @@
 # Tarea:
-## Habilitando un perfil en el ecosistema de desarrollo de inteligencia aritficial
+## Habilitando un perfil en el ecosistema de desarrollo de Inteligencia Artificial
 ### Curso de Especialización y módulo: Inteligencia Artificial y Big Data - Programación en Artificial.
 
 - Creación de una cuenta en GiHub, Readme y HolaMundo en Python.
